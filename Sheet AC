@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Sheet di Netlify</title>
+</head>
+<body>
+  <h1>Data Spreadsheet</h1>
+  <iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vXXXXX/pubhtml?widget=true&amp;headers=false" 
+    width="100%" 
+    height="600"
+    frameborder="0">
+  </iframe>
+</body>
+</html>
